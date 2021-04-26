@@ -19,7 +19,8 @@
   "module": "dist/formik-persist.es6.js",
   "typings": "dist/formik-persist.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "rollup.config.js"
   ],
   "scripts": {
     "test": "jest --env=jsdom",
