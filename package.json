@@ -19,6 +19,8 @@
   "module": "dist/formik-persist.es6.js",
   "typings": "dist/formik-persist.d.ts",
   "files": [
+    "src",
+    "tsconfig.json",
     "dist",
     "rollup.config.js"
   ],
